@@ -1,7 +1,7 @@
 # Hey there! I'm Sandesh 👋
  
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SandeshFarkya422.SandeshFarkya422&left_color=555555&right_color=6A38C2&left_text=Unique%20Visitors" alt="unique visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SandeshFarkya422.SandeshFarkya422&left_color=555555&right_color=6A38C2&left_text=Unique%20Visitors" alt="Profile visitors" />
 </p>
 ---
  
