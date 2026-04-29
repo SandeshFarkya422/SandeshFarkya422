@@ -44,31 +44,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-### 🔥 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🎬 Movie Recommendation System](https://github.com/SandeshFarkya422/movie-recommendation-System) | Content-based movie recommender using ML | Python, Jupyter |
-| [🏠 House Price Predictor – Indore](https://github.com/SandeshFarkya422/House_Price_Indore) | Predicts house prices in Indore using regression | Python, HTML |
-| [📄 Resume Screening App](https://github.com/SandeshFarkya422/Resume-Screening-App) | NLP-powered app to auto-classify resumes by job role | Python, NLP |
-| [🧠 my\_LLM](https://github.com/SandeshFarkya422/my_LLM) | Built a Large Language Model from scratch | Python, PyTorch |
-| [✋ Volume Controller – Hand Gesture](https://github.com/SandeshFarkya422/volume_controller_hand) | Controls PC volume using real-time hand gestures | Python, OpenCV |
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandeshFarkya422&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeshFarkya422&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeshFarkya422&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
