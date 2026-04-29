@@ -1,8 +1,7 @@
 # Hey there! I'm Sandesh 👋
  
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SandeshFarkya422&label=Unique+Profile+Views&color=6A38C2&style=flat&abbreviated=true" alt="profile views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSandeshFarkya422&count_bg=%236A38C2&title_bg=%23555555&icon=github&icon_color=%23ffffff&title=Total+Visits&edge_flat=true" alt="total visits"/>
+  <img src="https://komarev.com/ghpvc/?username=SandeshFarkya422&label=Profile+Views&color=6A38C2&style=for-the-badge" alt="profile views" />
 </p>
 ---
  
