@@ -1,16 +1,16 @@
 # Hey there! I'm Sandesh 👋
-
+ 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SandeshFarkya422&label=Profile%20Views&color=6A38C2&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SandeshFarkya422&label=Unique+Profile+Views&color=6A38C2&style=flat&abbreviated=true" alt="profile views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSandeshFarkya422&count_bg=%236A38C2&title_bg=%23555555&icon=github&icon_color=%23ffffff&title=Total+Visits&edge_flat=true" alt="total visits"/>
 </p>
-
 ---
-
+ 
 ### 🚀 About Me
-
+ 
 - 🎯 Passionate **AI/ML Developer** focused on building impactful, real-world applications
 - 🌱 Currently diving into **LLMs & GenAI** and building smarter, AI-powered systems
-- 💼 Developed projects like an **AI-powered Job Portal** using ML, GenAI, MySQL, and Supabase
+- 💼 Built impactful projects spanning **ML, NLP, GenAI, LLMs, and Chatbots** — from recommendation engines to building my own LLM from scratch
 - 🤝 Open to collaborating on innovative **AI integration projects**
 - ⚡ Fun fact: I build faster with a cup of coffee ☕ in hand!
 
