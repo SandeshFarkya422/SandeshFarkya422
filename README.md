@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🎯 Passionate **AI/ML Developer** focused on building impactful, real-world applications
-- 🌱 Currently exploring **Next.js** and deepening my understanding of backend systems
+- 🌱 Currently diving into GenAI and building smarter, AI-powered systems
 - 💼 Developed projects like an **AI-powered Job Portal** using ML, GenAI, MySQL, and Supabase
 - 🤝 Open to collaborating on innovative **AI integration projects**
 - ⚡ Fun fact: I build faster with a cup of coffee ☕ in hand!
