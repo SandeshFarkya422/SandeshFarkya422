@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🎯 Passionate **AI/ML Developer** focused on building impactful, real-world applications
-- 🌱 Currently diving into GenAI and building smarter, AI-powered systems
+- 🌱 Currently diving into **LLMs & GenAI** and building smarter, AI-powered systems
 - 💼 Developed projects like an **AI-powered Job Portal** using ML, GenAI, MySQL, and Supabase
 - 🤝 Open to collaborating on innovative **AI integration projects**
 - ⚡ Fun fact: I build faster with a cup of coffee ☕ in hand!
@@ -43,6 +43,18 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🔥 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🎬 Movie Recommendation System](https://github.com/SandeshFarkya422/movie-recommendation-System) | Content-based movie recommender using ML | Python, Jupyter |
+| [🏠 House Price Predictor – Indore](https://github.com/SandeshFarkya422/House_Price_Indore) | Predicts house prices in Indore using regression | Python, HTML |
+| [📄 Resume Screening App](https://github.com/SandeshFarkya422/Resume-Screening-App) | NLP-powered app to auto-classify resumes by job role | Python, NLP |
+| [🧠 my\_LLM](https://github.com/SandeshFarkya422/my_LLM) | Built a Large Language Model from scratch | Python, PyTorch |
+| [✋ Volume Controller – Hand Gesture](https://github.com/SandeshFarkya422/volume_controller_hand) | Controls PC volume using real-time hand gestures | Python, OpenCV |
 
 ---
 
